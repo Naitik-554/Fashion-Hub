@@ -33,10 +33,6 @@ To get a local copy up and running follow these simple steps:
    npm start
    ```
 
-## Usage
-
-- Visit the deployed website [Fashion Store](https://example.com) to browse and purchase products.
-
 ## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
